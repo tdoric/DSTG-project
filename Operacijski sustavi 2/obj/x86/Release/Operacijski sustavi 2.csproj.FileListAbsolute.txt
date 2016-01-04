@@ -1,0 +1,13 @@
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.frmAsimetricnoRSA.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.frmMain.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.frmPotpis.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.frmSazetak.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.frmSimetricnoAES.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski_sustavi_2.Properties.Resources.resources
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\bin\Release\Operacijski sustavi 2.exe
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\bin\Release\Operacijski sustavi 2.pdb
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski sustavi 2.exe
+C:\Users\Filip\Desktop\OS2\Operacijski sustavi 2\Operacijski sustavi 2\obj\x86\Release\Operacijski sustavi 2.pdb
